@@ -1,0 +1,1 @@
+var OEConfWEGallery1 = {"WE21b13921ce":{"AutoStart":false,"Delay":2000,"NextLinkText":{"Items":{"DEFAULT":"Suivant"}},"NumThumbs":8,"PauseLinkText":{"Items":{"DEFAULT":"Pause"}},"PlayLinkText":{"Items":{"DEFAULT":"Lecture"}},"PrevLinkText":{"Items":{"DEFAULT":"Précédent"}},"RenderNavControls":true,"RenderSSControls":true}}

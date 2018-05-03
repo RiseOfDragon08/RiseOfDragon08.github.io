@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2018-05-02</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="index.en-us.htm" />
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="EN-US">
+    <loc>index.en-us.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="index.en-us.htm" />
+  </url>
+  <url oeid="51281520-4eab-4cc1-9ffa-f4251949d974" oelang="DEFAULT">
+    <loc>Lorem/contact.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="Lorem/contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="Lorem/contact.en-us.htm" />
+  </url>
+  <url oeid="51281520-4eab-4cc1-9ffa-f4251949d974" oelang="EN-US">
+    <loc>Lorem/contact.en-us.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="Lorem/contact.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="Lorem/contact.en-us.htm" />
+  </url>
+  <url oeid="b2cca7d9-a48f-4e16-bccd-7f40add66acc" oelang="DEFAULT">
+    <loc>photos.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="photos.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="photos.en-us.htm" />
+  </url>
+  <url oeid="b2cca7d9-a48f-4e16-bccd-7f40add66acc" oelang="EN-US">
+    <loc>photos.en-us.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="photos.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="photos.en-us.htm" />
+  </url>
+  <url oeid="6791882e-5fe8-45c3-82e1-d51747c06b57" oelang="DEFAULT">
+    <loc>nous.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="nous.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="nous.en-us.htm" />
+  </url>
+  <url oeid="6791882e-5fe8-45c3-82e1-d51747c06b57" oelang="EN-US">
+    <loc>nous.en-us.htm</loc>
+    <lastmod>2018-02-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="nous.htm" />
+    <xhtml:link rel="alternate" hreflang="en-us" href="nous.en-us.htm" />
+  </url>
+</urlset>
